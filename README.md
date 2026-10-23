@@ -54,8 +54,6 @@ Air-Canvas/
 git clone https://github.com/saliankishan/Air-Canvas.git
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username.
-
 ### 2. Navigate to the project directory
 
 ```bash
